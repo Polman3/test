@@ -1,1 +1,1 @@
-Testowe repozytorium na GitHubie
+Testowe repozytorium na GitHubie 1.0
